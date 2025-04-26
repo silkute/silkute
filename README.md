@@ -30,7 +30,7 @@
   </p>
   -->
 
-<h2 align="center">Hi 👋! My name is Sike and I'm a Full Stack Developer, from Lithuania</h2>
+<h2 align="center">Hi 👋! My name is Silke and I'm a Full Stack Developer, from Lithuania</h2>
 
 ###
 
