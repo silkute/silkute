@@ -31,7 +31,8 @@
   -->
 
 <h2 align="center">Hi 👋! My name is Silke and I'm a Full Stack Developer, from Lithuania</h2>
-
+  <h4 align="center">All of my work is mostly private, so its kinda empty here🤷‍♂️</h4>
+  
 ###
 
 ###
